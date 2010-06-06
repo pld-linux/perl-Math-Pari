@@ -9,7 +9,7 @@ Summary:	Math::Pari - Perl interface to PARI.
 Summary(pl.UTF-8):	Math:Pari - Perlowy interfejs do PARI.
 Name:		perl-Math-Pari
 Version:	2.010801
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Math/%{pdir}-%{pnam}-%{version}.tar.gz
